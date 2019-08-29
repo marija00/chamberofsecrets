@@ -12,6 +12,8 @@ This simple method can be used for basic HTML/CSS/JS sites
 
 `$ open index.html`
 
+This will open the HTML site working demo as below
+
 ### Advanced
 
 This method is required for advanced JS app sites (e.g. https://github.com/sehsarah/wave-template that uses Paper.js) and is also a more precise way to run your website locally
